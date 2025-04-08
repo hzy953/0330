@@ -1,0 +1,4 @@
+"C:\Users\28241\Desktop\iic\hex文件\STARTUP.obj",
+"C:\Users\28241\Desktop\iic\hex文件\04040953.obj" 
+TO "C:\Users\28241\Desktop\iic\hex文件\iic" 
+PRINT(".\Listings\iic.m51") RAMSIZE(256) 
